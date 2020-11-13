@@ -37,7 +37,5 @@ div {
   display: block;
   float: left; 
   background-color: red;
-  width: 25;
-margin-left: auto;
-  margin-right: 
+  /*width: 25;*/
 }
