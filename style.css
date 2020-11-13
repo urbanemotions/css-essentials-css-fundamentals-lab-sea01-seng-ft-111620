@@ -4,9 +4,9 @@ body {
   margin: 0;
 }
 
-/*header {
+/header {
   text-align: center;
-}*/
+}
 
 img {
   display: block;
@@ -15,7 +15,6 @@ img {
 }
 
 nav a {
-  text-align: center;
   padding-left: 10px;
   padding-right: 10px;
   background-color: grey;
