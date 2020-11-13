@@ -29,3 +29,8 @@ p {
   width: 800px;
   text-align: center;
 }
+
+div {
+  display: block;
+  float: left;
+}
