@@ -27,7 +27,7 @@ figcaption {
 
 p {
   width: 100%;
-  max-width: 800px;
+  min-width: 800px;
   text-align: center;
 }
 
